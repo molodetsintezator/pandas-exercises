@@ -9,4 +9,5 @@ Install dependencies:
 Open Jupyter Notebook:
 - jupyter notebook
 Navigate to the desired directory and open the .ipynb file.
-Data is stored in .csv and .db files within the respective folders.
+Databases used to exercise are availble via link:
+https://drive.google.com/drive/folders/1BtKZq3lrD_ZO7cbzJO1-64L-LnZ5JfuK?usp=sharing
